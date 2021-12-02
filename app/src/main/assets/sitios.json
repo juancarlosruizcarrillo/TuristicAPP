@@ -1,0 +1,74 @@
+[
+    {
+      "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370760/Tur%C3%ADsticApp_v2/sprattBight_mod_uifmde.jpg",
+      "name": "Playa Spratt Bight",
+      "short_description": "La playa más turística y más reconocida de San Andrés.",
+      "score": "4.5 / 5.0",
+      "description_img": "Foto de la playa Spratt Bight",
+      "author_photo": "![CDATA[Foto: Pablo Gonzalez (https://www.flickr.com/photos/pablo_javier/)]]",
+      "temperature": "24 °C a 30 °C",
+      "location": "North End, frente al hotel Decameron El Isleño.",
+      "long_description": "Debido a su excelente localización, a los casi 500 metros de extensión de playas de arena blanca, limpias, seguras y cercanas a restaurantes, complejos hoteleros, bares, cafés y áreas comerciales, esta es una visita imprescindible para los visitantes que llegan a la isla buscando disfrutar del ambiente caribeño.",
+      "distance_airport": "1.4 km (17 min a pie – 6 min en auto)."
+    },
+    {
+      "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370762/Tur%C3%ADsticApp_v2/bahiaCocoplum_mod_ks3vkf.jpg",
+      "name": "Bahía Cocoplum",
+      "short_description": "La playa más hermosa de San Andrés.",
+      "score": "4.5 / 5.0",
+      "description_img": "",
+      "author_photo": "![CDATA[Foto: XXXX (https://www.enlace.com)]]",
+      "temperature": "XX °C a XX °C",
+      "location": "",
+      "long_description": "Máx. 50 palabras",
+      "distance_airport": ""
+    },
+    {
+      "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370761/Tur%C3%ADsticApp_v2/johnnyCay_mod_wlt0aw.jpg",
+      "name": "Isla Johnny Cay",
+      "short_description": "Parque Regional protegido gracias a su biodiversidad y belleza.",
+      "score": "4.5/5.0",
+      "description_img": "",
+      "author_photo": "![CDATA[Foto: XXXX (https://www.enlace.com)]]",
+      "temperature": "XX °C a XX °C",
+      "location": "",
+      "long_description": "Máx. 50 palabras",
+      "distance_airport": ""
+    },
+    {
+      "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370769/Tur%C3%ADsticApp_v2/cayoAcuario_mod_au7lug.jpg",
+      "name": "Cayo Acuario",
+      "short_description": "Encuentro con la naturaleza y contacto con animales fantásticos.",
+      "score": "4.5 / 5.0",
+      "description_img": "",
+      "author_photo": "![CDATA[Foto: XXXX (https://www.enlace.com)]]",
+      "temperature": "XX °C a XX °C",
+      "location": "",
+      "long_description": "Máx. 50 palabras",
+      "distance_airport": ""
+    },
+    {
+      "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370759/Tur%C3%ADsticApp_v2/marSieteColores_mod_r8ezxl.jpg",
+      "name": "Mar de los siete colores",
+      "short_description": "Esquina del Caribe con gama de tonos del mar, desde un azul profundo hasta un verde aguamarina translúcido.",
+      "score": "4.5 / 5.0",
+      "description_img": "",
+      "author_photo": "![CDATA[Foto: XXXX (https://www.enlace.com)]]",
+      "temperature": "XX °C a XX °C",
+      "location": "",
+      "long_description": "Máx. 50 palabras",
+      "distance_airport": ""
+    },
+    {
+      "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370766/Tur%C3%ADsticApp_v2/cuevaMorgan_mod_lzfrha.jpg",
+      "name": "Cueva de Morgan",
+      "short_description": "Museo Tributo a la leyenda de Morgan el Pirata.",
+      "score": "3.0 / 5.0",
+      "description_img": "",
+      "author_photo": "![CDATA[Foto: XXXX (https://www.enlace.com)]]",
+      "temperature": "XX °C a XX °C",
+      "location": "",
+      "long_description": "Máx. 50 palabras",
+      "distance_airport": ""
+    }
+]
