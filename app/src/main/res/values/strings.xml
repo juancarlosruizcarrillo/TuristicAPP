@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">TurísticApp: San Andrés Islas</string>
+    <string name="subtitle_temperature">Promedio de Temperatura:</string>
+    <string name="subtitle_distance_airport">Distancia al lugar desde el Aeropuerto: </string>
+    <string name="subtitle_location">Ubicación:</string>
+
+
+    <!--Spratt Bight-->
+    <string name="title_spratt_bight">Spratt Bight</string>
+    <string name="general_description_spratt_bight">LA PLAYA MÁS TURÍSTICA Y MÁS RECONOCIDA DE SAN ANDRÉS.</string>
+    <string name="description_img_spratt_bight">Foto de la playa Spratt Bight</string>
+    <string name="author_photo_spratt_bight"><![CDATA[Foto: Pablo Gonzalez (https://www.flickr.com/photos/pablo_javier/)]]></string>
+    <string name="temperature_spratt_bight">24 °C a 30 °C</string>
+    <string name="location_spratt_bight">North End, frente al hotel Decameron El Isleño.</string>
+    <string name="description_spratt_bight">Debido a su excelente localización, a los casi 500 metros de extensión de playas de arena blanca, limpias, seguras y cercanas a restaurantes, complejos hoteleros, bares, cafés y áreas comerciales, esta es una visita imprescindible para los visitantes que llegan a la isla buscando disfrutar del ambiente caribeño.</string>
+    <string name="distance_airport_spratt_bight">1.4 km (17 min a pie – 6 min en auto).</string>
+    <string name="score_spratt_bight">4.5 / 5.0</string>
+
+    <!--Bahia Cocoplum-->
+    <string name="title_bahia_cocoplum">XXXX</string>
+    <string name="general_description_bahia_cocoplum">XXXX</string>
+    <string name="description_img_bahia_cocoplum">XXXX</string>
+    <string name="author_photo_bahia_cocoplum"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>
+    <string name="temperature_bahia_cocoplum">XX °C a XX °C</string>
+    <string name="location_bahia_cocoplum">XXXX</string>
+    <string name="description_bahia_cocoplum">XXXX</string>
+    <string name="distance_airport_bahia_cocoplum">XXXX</string>
+
+    <!--Johnny Cay-->
+    <string name="title_johnny_cay">XXXX</string>
+    <string name="general_description_johnny_cay">XXXX</string>
+    <string name="description_img_johnny_cay">XXXX</string>
+    <string name="author_photo_johnny_cay"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>
+    <string name="temperature_johnny_cay">XX °C a XX °C</string>
+    <string name="location_johnny_cay">XXXX</string>
+    <string name="description_johnny_cay">XXXX</string>
+    <string name="distance_airport_johnny_cay">XXXX</string>
+
+    <!--Cayo Acuario-->
+    <string name="title_cayo_acuario">XXXX</string>
+    <string name="general_description_cayo_acuario">XXXX</string>
+    <string name="description_img_cayo_acuario">XXXX</string>
+    <string name="author_photo_cayo_acuario"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>
+    <string name="temperature_cayo_acuario">XX °C a XX °C</string>
+    <string name="location_cayo_acuario">XXXX</string>
+    <string name="description_cayo_acuario">XXXX</string>
+    <string name="distance_airport_cayo_acuario">XXXX</string>
+
+    <!--Mar de los Siete Colores-->
+    <string name="title_mar_siete_colores">XXXX</string>
+    <string name="general_description_mar_siete_colores">XXXX</string>
+    <string name="description_img_mar_siete_colores">XXXX</string>
+    <string name="author_photo_mar_siete_colores"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>
+    <string name="temperature_mar_siete_colores">XX °C a XX °C</string>
+    <string name="location_mar_siete_colores">XXXX</string>
+    <string name="description_mar_siete_colores">XXXX</string>
+    <string name="distance_airport_mar_siete_colores">XXXX</string>
+
+    <!--Cueva de Morgan-->
+    <string name="title_cueva_morgan">XXXX</string>
+    <string name="general_description_cueva_morgan">XXXX</string>
+    <string name="description_img_cueva_morgan">XXXX</string>
+    <string name="author_photo_cueva_morgan"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>
+    <string name="temperature_cueva_morgan">XX °C a XX °C</string>
+    <string name="location_cueva_morgan">XXXX</string>
+    <string name="description_cueva_morgan">XXXX</string>
+    <string name="distance_airport_cueva_morgan">XXXX</string>
+
+
+</resources>

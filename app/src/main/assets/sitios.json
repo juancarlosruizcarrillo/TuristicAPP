@@ -1,0 +1,74 @@
+[
+  {
+    "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370760/Tur%C3%ADsticApp_v2/sprattBight_mod_uifmde.jpg",
+    "name": "Playa Spratt Bight",
+    "short_description": "La playa más turística y más reconocida de San Andrés.",
+    "score": "4.5 / 5.0",
+    "description_img": "Foto de la playa Spratt Bight",
+    "author_photo": "Foto: Pablo Gonzalez (https://www.flickr.com/photos/pablo_javier/)",
+    "temperature": "24 °C a 30 °C",
+    "location": "North End, frente al hotel Decameron El Isleño.",
+    "long_description": "Debido a su excelente localización, a los casi 500 metros de extensión de playas de arena blanca, limpias, seguras y cercanas a restaurantes, complejos hoteleros, bares, cafés y áreas comerciales, esta es una visita imprescindible para los visitantes que llegan a la isla buscando disfrutar del ambiente caribeño.",
+    "distance_airport": "1.4 km (17 min a pie – 6 min en auto)."
+  },
+  {
+    "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370762/Tur%C3%ADsticApp_v2/bahiaCocoplum_mod_ks3vkf.jpg",
+    "name": "Bahía Cocoplum",
+    "short_description": "La playa más hermosa de San Andrés.",
+    "score": "4.5 / 5.0",
+    "description_img": "Foto de Bahía Cocoplum",
+    "author_photo": "Foto: (https://www.vivecolombia.travel/es/hotel-cocoplum-beach)",
+    "temperature": "27 °C a 31 °C",
+    "location": "Playas de San Luis al este de la isla",
+    "long_description": "Playa de arenillas blancas y aguas de color turquesa, acreditada por sus montes de monumentales cocoteras. Se halla ubicada en la serena área de playas de San Luis al este de la isla. En el sitio se pueden divertir practicando muchos deportes acuáticos, como  buceo, Velerismo, Kayak o jet sky.",
+    "distance_airport": "12 min (5.5 km) por Carretera 01"
+  },
+  {
+    "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370761/Tur%C3%ADsticApp_v2/johnnyCay_mod_wlt0aw.jpg",
+    "name": "Isla Johnny Cay",
+    "short_description": "Parque Regional protegido gracias a su biodiversidad y belleza.",
+    "score": "4.5 / 5.0",
+    "description_img": "Foto de Isla Johnny Cay",
+    "author_photo": "Foto: Hussam - Zaboka SA (https://images.app.goo.gl/WDw12k2zdjxKW7es7)",
+    "temperature": "27 °C Estable",
+    "location": "pequeño islote (cayo) oceánico cercano a la isla de San Andrés",
+    "long_description": "Es la isla más cercana a San Andrés y muy concurrida por los turistas, en donde los isleños entonan su música caribeña, y donde el visitante puede saborear los platos típicos, una piña colada de coco nativo, o un trago llamado coco-loco. Tiene unas playas paradisíacas de arena blanca, solo un restaurante en donde se puede comer algo típico de la zona. Es para relajarse y disfrutar del paisaje.",
+    "distance_airport": "1Km y medio, a 15 minutos de San Andres en lancha"
+  },
+  {
+    "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637697979/Tur%C3%ADsticApp_v2/cayoAcuario_mod_wil0kl.jpg",
+    "name": "Cayo Acuario",
+    "short_description": "Encuentro con la naturaleza y contacto con animales fantásticos.",
+    "score": "4.5 / 5.0",
+    "description_img": "Foto de Cayo Acuario",
+    "author_photo": "Foto: Tripadvisor (https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/5b/97/bf.jpg)",
+    "temperature": "28 °C a 31 °C",
+    "location": "Este de la Isla de San Andrés, al frente de su puerto.",
+    "long_description": "Playa blanca con agua cristalina donde se puede disfrutar del contacto con diferentes animales acuáticos. Además, se pueden realizar prácticas acuáticas. En este lugar tendrá la oportunidad de degustar comida de mar y el árbol del pan, el cual es un plato típico de la región.",
+    "distance_airport": "11 minutos (4,2 Km) por Cra. 4 y Carretera 01."
+  },
+  {
+    "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370759/Tur%C3%ADsticApp_v2/marSieteColores_mod_r8ezxl.jpg",
+    "name": "Mar de los siete colores",
+    "short_description": "Esquina del Caribe con gama de tonos del mar, desde un azul profundo hasta un verde aguamarina translúcido.",
+    "score": "4.5 / 5.0",
+    "description_img": "Foto del Mar de los siete colores",
+    "author_photo": "Foto: Los viajes de Domi (https://losviajesdedomi.com/mar-7-colores-isla-san-andres/)",
+    "temperature": "25 °C a 30 °C",
+    "location": "Playas de San Luis al este de la isla.",
+    "long_description": "Desde la costa, el agua despliega una variedad de tonalidades únicas, debido a las variaciones de profundidad y al tipo de fondo marino. Una paleta que va del azul, al turquesa, celeste, verde…Es mucho más que una razón para viajar a este lugar y tomar unas cuantas fotografías. Un verdadero espectáculo visual para deleitarte en tus vacaciones.",
+    "distance_airport": "A menos de 1Km"
+  },
+  {
+    "urlPicture": "https://res.cloudinary.com/juan-carlos-ruiz/image/upload/v1637370766/Tur%C3%ADsticApp_v2/cuevaMorgan_mod_lzfrha.jpg",
+    "name": "Cueva de Morgan",
+    "short_description": "Museo Tributo a la leyenda de Morgan el Pirata.",
+    "score": "3.0 / 5.0",
+    "description_img": "Foto de Cueva de Morgan",
+    "author_photo": "Foto: Andrés Vélez (https://www.flickr.com/photos/139734115@N02/28539139338/in/photostream/)",
+    "temperature": "27 °C a 31 °C",
+    "location": "Se encuentra ubicada al sur de San Andrés, en el km 8 de la avenida circunvalar.",
+    "long_description": "Se dice que es el lugar donde el pirata Morgan de origen inglés escondía sus tesoros, los isleños en la actualidad se encargan de prolongar la leyenda. Convertida en Museo es una visita para conocer antepasados de la isla y aprender la historia del pirata de San Andrés en un tour guiado por la cueva.",
+    "distance_airport": "18 min en auto (6,8 km) por Av. Loma Barrack."
+  }
+]
