@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:background="#002060"
     tools:layout_editor_absoluteX="1dp"
-    tools:layout_editor_absoluteY="538dp">
+    tools:layout_editor_absoluteY="538dp"
+    tools:context=".detail.DetailFragment">
 
     <ScrollView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
@@ -32,7 +33,9 @@
                 style="@style/descrip_Sub_Title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
                 android:layout_marginTop="10dp"
+                android:layout_marginEnd="8dp"
                 android:text="@string/general_description_spratt_bight"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -42,7 +45,9 @@
                 android:id="@+id/picture_image_view"
                 android:layout_width="389dp"
                 android:layout_height="197dp"
+                android:layout_marginStart="16dp"
                 android:layout_marginTop="8dp"
+                android:layout_marginEnd="16dp"
                 android:contentDescription="@string/description_img_spratt_bight"
                 android:scaleType="fitXY"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -78,14 +83,14 @@
                 style="@style/Text_normal"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
-                android:layout_marginTop="12dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="4dp"
                 android:layout_marginEnd="16dp"
                 android:text="@string/temperature_spratt_bight"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toEndOf="@+id/subtitle_temperature_text_view"
-                app:layout_constraintTop_toBottomOf="@+id/author_photo_text_view" />
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/subtitle_temperature_text_view" />
 
             <TextView
                 android:id="@+id/subtitle_location_text_view"
@@ -93,25 +98,24 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
-                android:layout_marginTop="8dp"
+                android:layout_marginTop="16dp"
                 android:layout_marginEnd="16dp"
                 android:text="@string/subtitle_location"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/subtitle_temperature_text_view" />
+                app:layout_constraintTop_toBottomOf="@+id/temperature_text_view" />
 
             <TextView
                 android:id="@+id/location_text_view"
                 style="@style/Text_normal"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="4dp"
                 android:layout_marginEnd="16dp"
                 android:text="@string/location_spratt_bight"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/subtitle_location_text_view" />
 
@@ -136,7 +140,7 @@
 
             <TextView
                 android:id="@+id/subtitle_distance_airport_text_view"
-                style="@style/Text_normal"
+                style="@style/Subtitles_text"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"

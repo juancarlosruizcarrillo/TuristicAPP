@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TuristicApp: San Andrés Islas</string>
+    <string name="app_name">TurísticApp: San Andrés Islas</string>
     <string name="subtitle_temperature">Promedio de Temperatura:</string>
     <string name="subtitle_distance_airport">Distancia al lugar desde el Aeropuerto: </string>
     <string name="subtitle_location">Ubicación:</string>

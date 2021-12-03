@@ -1,0 +1,26 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:backgroundTintMode="screen">
+
+    <PreferenceCategory
+        android:layout_height="wrap_content"
+        android:layoutAnimation="@android:anim/fade_in"
+        app:allowDividerBelow="true"
+        app:title="@string/notifications">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:focusable="auto"
+            android:icon="@drawable/ic_notifications"
+            android:key="notifications"
+            android:title="@string/notifications"/>
+        <CheckBoxPreference
+            android:layout_height="wrap_content"
+            android:defaultValue="false"
+            android:icon="@drawable/ic_sound_notifications"
+            android:key="sound_notifications"
+            android:title="Sonidos de notificaciones"
+            app:dependency="notifications" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

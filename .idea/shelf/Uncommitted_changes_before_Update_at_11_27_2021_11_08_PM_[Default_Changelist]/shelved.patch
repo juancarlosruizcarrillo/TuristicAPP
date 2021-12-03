@@ -1,0 +1,129 @@
+Index: tapp/src/main/res/layout/activity_home.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tapp/src/main/res/layout/activity_home.xml b/tapp/src/main/res/layout/activity_home.xml
+new file mode 100644
+--- /dev/null	(date 1638070089093)
++++ b/tapp/src/main/res/layout/activity_home.xml	(date 1638070089093)
+@@ -0,0 +1,25 @@
++<?xml version="1.0" encoding="utf-8"?>
++<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    xmlns:tools="http://schemas.android.com/tools"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    android:background="#002060"
++    tools:context=".home.HomeActivity">
++
++    <ImageView
++        android:id="@+id/imageView2"
++        android:layout_width="wrap_content"
++        android:layout_height="wrap_content"
++        android:layout_marginStart="16dp"
++        android:layout_marginTop="24dp"
++        android:layout_marginEnd="16dp"
++        android:layout_marginBottom="24dp"
++        android:contentDescription="@string/description_img_home"
++        app:layout_constraintBottom_toBottomOf="parent"
++        app:layout_constraintEnd_toEndOf="parent"
++        app:layout_constraintStart_toStartOf="parent"
++        app:layout_constraintTop_toTopOf="parent"
++        app:srcCompat="@drawable/logo_app" />
++
++</androidx.constraintlayout.widget.ConstraintLayout>
+\ No newline at end of file
+Index: tapp/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><resources>\r\n    <string name=\"hello_blank_fragment\">Hello blank fragment</string>\r\n    <string name=\"app_name\">TurísticApp: San Andrés Islas</string>\r\n    <string name=\"subtitle_temperature\">Promedio de Temperatura:</string>\r\n    <string name=\"subtitle_distance_airport\">Distancia al lugar desde el Aeropuerto: </string>\r\n    <string name=\"subtitle_location\">Ubicación:</string>\r\n\r\n    <!--Spratt Bight-->\r\n    <string name=\"title_spratt_bight\">Spratt Bight</string>\r\n    <string name=\"general_description_spratt_bight\">LA PLAYA MÁS TURÍSTICA Y MÁS RECONOCIDA DE SAN ANDRÉS.</string>\r\n    <string name=\"description_img_spratt_bight\">Foto de la playa Spratt Bight</string>\r\n    <string name=\"author_photo_spratt_bight\"><![CDATA[Foto: Pablo Gonzalez (https://www.flickr.com/photos/pablo_javier/)]]></string>\r\n    <string name=\"temperature_spratt_bight\">24 °C a 30 °C</string>\r\n    <string name=\"location_spratt_bight\">North End, frente al hotel Decameron El Isleño.</string>\r\n    <string name=\"description_spratt_bight\">Debido a su excelente localización, a los casi 500 metros de extensión de playas de arena blanca, limpias, seguras y cercanas a restaurantes, complejos hoteleros, bares, cafés y áreas comerciales, esta es una visita imprescindible para los visitantes que llegan a la isla buscando disfrutar del ambiente caribeño.</string>\r\n    <string name=\"distance_airport_spratt_bight\">1.4 km (17 min a pie – 6 min en auto).</string>\r\n    <string name=\"score_spratt_bight\">4.5 / 5.0</string>\r\n\r\n    <!--Bahia Cocoplum-->\r\n    <string name=\"title_bahia_cocoplum\">XXXX</string>\r\n    <string name=\"general_description_bahia_cocoplum\">XXXX</string>\r\n    <string name=\"description_img_bahia_cocoplum\">XXXX</string>\r\n    <string name=\"author_photo_bahia_cocoplum\"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>\r\n    <string name=\"temperature_bahia_cocoplum\">XX °C a XX °C</string>\r\n    <string name=\"location_bahia_cocoplum\">XXXX</string>\r\n    <string name=\"description_bahia_cocoplum\">XXXX</string>\r\n    <string name=\"distance_airport_bahia_cocoplum\">XXXX</string>\r\n\r\n    <!--Johnny Cay-->\r\n    <string name=\"title_johnny_cay\">XXXX</string>\r\n    <string name=\"general_description_johnny_cay\">XXXX</string>\r\n    <string name=\"description_img_johnny_cay\">XXXX</string>\r\n    <string name=\"author_photo_johnny_cay\"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>\r\n    <string name=\"temperature_johnny_cay\">XX °C a XX °C</string>\r\n    <string name=\"location_johnny_cay\">XXXX</string>\r\n    <string name=\"description_johnny_cay\">XXXX</string>\r\n    <string name=\"distance_airport_johnny_cay\">XXXX</string>\r\n\r\n    <!--Cayo Acuario-->\r\n    <string name=\"title_cayo_acuario\">XXXX</string>\r\n    <string name=\"general_description_cayo_acuario\">XXXX</string>\r\n    <string name=\"description_img_cayo_acuario\">XXXX</string>\r\n    <string name=\"author_photo_cayo_acuario\"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>\r\n    <string name=\"temperature_cayo_acuario\">XX °C a XX °C</string>\r\n    <string name=\"location_cayo_acuario\">XXXX</string>\r\n    <string name=\"description_cayo_acuario\">XXXX</string>\r\n    <string name=\"distance_airport_cayo_acuario\">XXXX</string>\r\n\r\n    <!--Mar de los Siete Colores-->\r\n    <string name=\"title_mar_siete_colores\">XXXX</string>\r\n    <string name=\"general_description_mar_siete_colores\">XXXX</string>\r\n    <string name=\"description_img_mar_siete_colores\">XXXX</string>\r\n    <string name=\"author_photo_mar_siete_colores\"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>\r\n    <string name=\"temperature_mar_siete_colores\">XX °C a XX °C</string>\r\n    <string name=\"location_mar_siete_colores\">XXXX</string>\r\n    <string name=\"description_mar_siete_colores\">XXXX</string>\r\n    <string name=\"distance_airport_mar_siete_colores\">XXXX</string>\r\n\r\n    <!--Cueva de Morgan-->\r\n    <string name=\"title_cueva_morgan\">XXXX</string>\r\n    <string name=\"general_description_cueva_morgan\">XXXX</string>\r\n    <string name=\"description_img_cueva_morgan\">XXXX</string>\r\n    <string name=\"author_photo_cueva_morgan\"><![CDATA[Foto: Nombre autor (http://enlace.com)]]></string>\r\n    <string name=\"temperature_cueva_morgan\">XX °C a XX °C</string>\r\n    <string name=\"location_cueva_morgan\">XXXX</string>\r\n    <string name=\"description_cueva_morgan\">XXXX</string>\r\n    <string name=\"distance_airport_cueva_morgan\">XXXX</string>\r\n\r\n    <!-- Sync Preferences -->\r\n    <string name=\"notifications\">Notificaciones</string>\r\n    <string name=\"preferences\">Preferencias</string>\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tapp/src/main/res/values/strings.xml b/tapp/src/main/res/values/strings.xml
+--- a/tapp/src/main/res/values/strings.xml	(revision d9ee381401053eb629ec20cbbb8abebde9eb1040)
++++ b/tapp/src/main/res/values/strings.xml	(date 1638070089058)
+@@ -1,6 +1,7 @@
+ <resources>
+     <string name="hello_blank_fragment">Hello blank fragment</string>
+     <string name="app_name">TurísticApp: San Andrés Islas</string>
++    <string name="description_img_home">Logo TuristicApp</string>
+     <string name="subtitle_temperature">Promedio de Temperatura:</string>
+     <string name="subtitle_distance_airport">Distancia al lugar desde el Aeropuerto: </string>
+     <string name="subtitle_location">Ubicación:</string>
+Index: tapp/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\"\r\n    package=\"com.example.tapp\">\r\n\r\n    <uses-permission android:name=\"android.permission.INTERNET\" />\r\n\r\n    <application\r\n        android:allowBackup=\"true\"\r\n        android:icon=\"@mipmap/ic_launcher\"\r\n        android:label=\"@string/app_name\"\r\n        android:roundIcon=\"@mipmap/ic_launcher_round\"\r\n        android:supportsRtl=\"true\"\r\n        android:theme=\"@style/Theme.TuristicApp\">\r\n        <activity\r\n            android:name=\".main.MainActivity\"\r\n            android:exported=\"true\">\r\n            <intent-filter>\r\n                <action android:name=\"android.intent.action.MAIN\" />\r\n\r\n                <category android:name=\"android.intent.category.LAUNCHER\" />\r\n            </intent-filter>\r\n        </activity>\r\n    </application>\r\n\r\n</manifest>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tapp/src/main/AndroidManifest.xml b/tapp/src/main/AndroidManifest.xml
+--- a/tapp/src/main/AndroidManifest.xml	(revision d9ee381401053eb629ec20cbbb8abebde9eb1040)
++++ b/tapp/src/main/AndroidManifest.xml	(date 1638070089073)
+@@ -12,13 +12,19 @@
+         android:supportsRtl="true"
+         android:theme="@style/Theme.TuristicApp">
+         <activity
+-            android:name=".main.MainActivity"
++            android:name=".home.HomeActivity"
+             android:exported="true">
+-            <intent-filter>
+-                <action android:name="android.intent.action.MAIN" />
++
++        <intent-filter>
++            <action android:name="android.intent.action.MAIN" />
+ 
+-                <category android:name="android.intent.category.LAUNCHER" />
+-            </intent-filter>
++            <category android:name="android.intent.category.LAUNCHER" />
++        </intent-filter>
++        </activity>
++        <activity
++            android:name=".main.MainActivity"
++            android:exported="true">
++
+         </activity>
+     </application>
+ 
+Index: tapp/src/main/java/com/example/tapp/home/HomeActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tapp/src/main/java/com/example/tapp/home/HomeActivity.kt b/tapp/src/main/java/com/example/tapp/home/HomeActivity.kt
+new file mode 100644
+--- /dev/null	(date 1638070089018)
++++ b/tapp/src/main/java/com/example/tapp/home/HomeActivity.kt	(date 1638070089018)
+@@ -0,0 +1,29 @@
++package com.example.tapp.home
++
++import android.content.Intent
++import androidx.appcompat.app.AppCompatActivity
++import android.os.Bundle
++import android.view.Window
++import com.example.tapp.R
++import com.example.tapp.main.MainActivity
++import java.util.*
++import kotlin.concurrent.timerTask
++
++class HomeActivity : AppCompatActivity() {
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        this.supportRequestWindowFeature(Window.FEATURE_NO_TITLE)
++        setContentView(R.layout.activity_home)
++
++        val timer = Timer()
++        timer.schedule(timerTask {
++            goToMainActivity()
++        },  1000
++        )
++    }
++    private fun goToMainActivity() {
++        val intent = Intent(this, MainActivity::class.java)
++        startActivity(intent)
++        finish()
++    }
++}
+\ No newline at end of file
