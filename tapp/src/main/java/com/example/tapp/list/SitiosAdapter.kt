@@ -10,8 +10,6 @@ import com.example.tapp.R
 import com.example.tapp.model.SitioItem
 import com.squareup.picasso.Picasso
 
-
-
 class SitiosAdapter(
     private val sitiosList: ArrayList<SitioItem>,
     private val onItemClicked: (SitioItem) -> Unit
@@ -29,6 +27,12 @@ class SitiosAdapter(
     }
 
     override fun getItemCount(): Int = sitiosList.size
+
+    fun appendItems(newItems: ArrayList<SitioItem>) {
+        sitiosList.clear()
+        sitiosList.addAll(newItems)
+        notifyDataSetChanged()
+    }
 
     class SitioViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView){
         private var nameTextView: TextView = itemView.findViewById(R.id.name_text_view)
