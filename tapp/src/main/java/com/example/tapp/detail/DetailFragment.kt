@@ -43,7 +43,7 @@ class DetailFragment : Fragment() {
             //scoreTextView.text = sitio.score
             shortDescriptionTextView.text = sitio.shortDescription
             temperatureTextView.text = sitio.temperature
-            com.squareup.picasso.Picasso.get().load(sitio.urlPicture).into(pictureImageView)
+            Picasso.get().load(sitio.urlPicture).into(pictureImageView)
         }
     }
 
