@@ -1,4 +1,4 @@
-package com.example.tapp.detail
+package com.example.tapp.ui.detail
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -9,7 +9,7 @@ import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import com.example.tapp.R
 import com.example.tapp.databinding.FragmentDetailBinding
-import com.example.tapp.main.MainActivity
+import com.example.tapp.ui.main.MainActivity
 import com.example.tapp.model.SitioItem
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.OnMapReadyCallback

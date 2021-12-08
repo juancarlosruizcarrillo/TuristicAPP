@@ -1,6 +1,5 @@
-package com.example.tapp.main
+package com.example.tapp.ui.main
 
-import android.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -9,7 +8,7 @@ import android.view.MenuItem
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
 import com.example.tapp.R
-import com.example.tapp.preference.SettingsFragment
+import com.example.tapp.ui.preference.SettingsFragment
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

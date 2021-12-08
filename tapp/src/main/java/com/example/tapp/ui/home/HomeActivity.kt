@@ -1,11 +1,11 @@
-package com.example.tapp.home
+package com.example.tapp.ui.home
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Window
 import com.example.tapp.R
-import com.example.tapp.main.MainActivity
+import com.example.tapp.ui.main.MainActivity
 import java.util.*
 import kotlin.concurrent.timerTask
 

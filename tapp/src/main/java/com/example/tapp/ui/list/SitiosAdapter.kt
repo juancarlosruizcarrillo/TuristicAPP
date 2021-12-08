@@ -1,4 +1,4 @@
-package com.example.tapp.list
+package com.example.tapp.ui.list
 
 import android.view.LayoutInflater
 import android.view.View
