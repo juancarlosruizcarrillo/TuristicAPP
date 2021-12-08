@@ -1,0 +1,75 @@
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">TurísticApp: SAI</string>
+    <string name="description_img_home">Logo TurísticApp</string>
+    <string name="by_OneDroid">by OneDroid</string>
+    <string name="san_andres_islas">San Andrés Islas</string>
+    <string name="subtitle_temperature">Promedio de Temperatura:</string>
+    <string name="subtitle_distance_airport">Distancia al lugar desde el Aeropuerto: </string>
+    <string name="subtitle_location">Ubicación:</string>
+
+    <!--Spratt Bight-->
+    <string name="title_spratt_bight">Spratt Bight</string>
+    <string name="general_description_spratt_bight">LA PLAYA MÁS TURÍSTICA Y MÁS RECONOCIDA DE SAN ANDRÉS.</string>
+    <string name="description_img_spratt_bight">Foto de la playa Spratt Bight</string>
+    <string name="author_photo_spratt_bight"><![CDATA[Foto: Pablo Gonzalez (https://www.flickr.com/photos/pablo_javier/)]]></string>
+    <string name="temperature_spratt_bight">24 °C a 30 °C</string>
+    <string name="location_spratt_bight">North End, frente al hotel Decameron El Isleño.</string>
+    <string name="description_spratt_bight">Debido a su excelente localización, a los casi 500 metros de extensión de playas de arena blanca, limpias, seguras y cercanas a restaurantes, complejos hoteleros, bares, cafés y áreas comerciales, esta es una visita imprescindible para los visitantes que llegan a la isla buscando disfrutar del ambiente caribeño.</string>
+    <string name="distance_airport_spratt_bight">1.4 km (17 min a pie – 6 min en auto).</string>
+    <string name="score_spratt_bight">4.5 / 5.0</string>
+
+    <!--Bahia Cocoplum-->
+    <string name="title_bahia_cocoplum">Bahía Cocoplum</string>
+    <string name="general_description_bahia_cocoplum">La playa más hermosa de San Andrés.</string>
+    <string name="description_img_bahia_cocoplum">Foto de la Bahía Cocoplum</string>
+    <string name="author_photo_bahia_cocoplum"><![CDATA[Foto: Viva Colombia (https://www.vivecolombia.travel/es/hotel-cocoplum-beach)]]></string>
+    <string name="temperature_bahia_cocoplum">27 °C a 31 °C</string>
+    <string name="location_bahia_cocoplum">Playas de San Luis al este de la isla.</string>
+    <string name="description_bahia_cocoplum">Playa de arenillas blancas y aguas de color turquesa, acreditada por sus montes de monumentales cocoteras. Se halla ubicada en la serena área de playas de San Luis al este de la isla. En el sitio se pueden divertir practicando muchos deportes acuáticos, como  buceo, Velerismo, Kayak o jet sky.</string>
+    <string name="distance_airport_bahia_cocoplum">12 min (5.5 km) por Carretera 01.</string>
+
+    <!--Johnny Cay-->
+    <string name="title_johnny_cay">Isla Johnny Cay</string>
+    <string name="general_description_johnny_cay">Parque Regional protegido gracias a su biodiversidad y belleza.</string>
+    <string name="description_img_johnny_cay">Foto de Isla Johnny Cay</string>
+    <string name="author_photo_johnny_cay"><![CDATA[Foto: Hussam - Zaboka SA (https://images.app.goo.gl/WDw12k2zdjxKW7es7)]]></string>
+    <string name="temperature_johnny_cay">27 °C Estable</string>
+    <string name="location_johnny_cay">Pequeño islote (cayo) oceánico cercano a la isla de San Andrés</string>
+    <string name="description_johnny_cay">Es la isla más cercana a San Andrés y muy concurrida por los turistas, en donde los isleños entonan su música caribeña, y donde el visitante puede saborear los platos típicos, una piña colada de coco nativo, o un trago llamado coco-loco. Tiene unas playas paradisíacas de arena blanca, solo un restaurante en donde se puede comer algo típico de la zona. Es para relajarse y disfrutar del paisaje.</string>
+    <string name="distance_airport_johnny_cay">1Km y medio, a 15 minutos de San Andres en lancha</string>
+
+    <!--Cayo Acuario-->
+    <string name="title_cayo_acuario">Cayo Acuario</string>
+    <string name="general_description_cayo_acuario">Encuentro con la naturaleza y contacto con animales fantásticos.</string>
+    <string name="description_img_cayo_acuario">Foto de Cayo Acuario</string>
+    <string name="author_photo_cayo_acuario"><![CDATA[Foto: Tripadvisor (https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/09/5b/97/bf.jpg)]]></string>
+    <string name="temperature_cayo_acuario">28 °C a 31 °C</string>
+    <string name="location_cayo_acuario">Este de la Isla de San Andrés, al frente de su puerto.</string>
+    <string name="description_cayo_acuario">Playa blanca con agua cristalina donde se puede disfrutar del contacto con diferentes animales acuáticos. Además, se pueden realizar prácticas acuáticas. En este lugar tendrá la oportunidad de degustar comida de mar y el árbol del pan, el cual es un plato típico de la región.</string>
+    <string name="distance_airport_cayo_acuario">11 minutos (4,2 Km) por Cra. 4 y Carretera 01.</string>
+
+    <!--Mar de los Siete Colores-->
+    <string name="title_mar_siete_colores">Mar de los siete colores</string>
+    <string name="general_description_mar_siete_colores">Esquina del Caribe con gama de tonos del mar, desde un azul profundo hasta un verde aguamarina translúcido.</string>
+    <string name="description_img_mar_siete_colores">Foto del Mar de los siete colores</string>
+    <string name="author_photo_mar_siete_colores"><![CDATA[Foto: Los viajes de Domi (https://losviajesdedomi.com/mar-7-colores-isla-san-andres/)]]></string>
+    <string name="temperature_mar_siete_colores">25 °C a 30 °C</string>
+    <string name="location_mar_siete_colores">Playas de San Luis al este de la isla.</string>
+    <string name="description_mar_siete_colores">Desde la costa, el agua despliega una variedad de tonalidades únicas, debido a las variaciones de profundidad y al tipo de fondo marino. Una paleta que va del azul, al turquesa, celeste, verde…Es mucho más que una razón para viajar a este lugar y tomar unas cuantas fotografías. Un verdadero espectáculo visual para deleitarte en tus vacaciones.</string>
+    <string name="distance_airport_mar_siete_colores">A menos de 1Km</string>
+
+    <!--Cueva de Morgan-->
+    <string name="title_cueva_morgan">Cueva de Morgan</string>
+    <string name="general_description_cueva_morgan">Museo Tributo a la leyenda de Morgan el Pirata.</string>
+    <string name="description_img_cueva_morgan">Foto de Cueva de Morgan</string>
+    <string name="author_photo_cueva_morgan"><![CDATA[Foto: Andrés Vélez (https://www.flickr.com/photos/139734115@N02/28539139338/in/photostream/)]]></string>
+    <string name="temperature_cueva_morgan">27 °C a 31 °C</string>
+    <string name="location_cueva_morgan">Se encuentra ubicada al sur de San Andrés, en el km 8 de la avenida circunvalar.</string>
+    <string name="description_cueva_morgan">Se dice que es el lugar donde el pirata Morgan de origen inglés escondía sus tesoros, los isleños en la actualidad se encargan de prolongar la leyenda. Convertida en Museo es una visita para conocer antepasados de la isla y aprender la historia del pirata de San Andrés en un tour guiado por la cueva.</string>
+    <string name="distance_airport_cueva_morgan">18 min en auto (6,8 km) por Av. Loma Barrack.</string>
+
+    <!-- Sync Preferences -->
+    <string name="notifications">Notificaciones</string>
+    <string name="preferences">Preferencias</string>
+</resources>
