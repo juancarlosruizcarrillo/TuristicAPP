@@ -24,5 +24,9 @@ data class SitioItem(
     @SerializedName("temperature")
     val temperature: String,
     @SerializedName("urlPicture")
-    val urlPicture: String
+    val urlPicture: String,
+    @SerializedName("latitude")
+    val latitude: Double,
+    @SerializedName("longitude")
+    val longitude: Double
 ) : Serializable

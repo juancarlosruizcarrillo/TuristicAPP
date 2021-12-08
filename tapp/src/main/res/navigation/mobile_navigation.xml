@@ -25,9 +25,21 @@
         <argument
             android:name="sitio"
             app:argType="com.example.tapp.model.SitioItem" />
+        <action
+            android:id="@+id/action_detailFragment_to_mapsFragment"
+            app:destination="@id/mapsFragment" />
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
         android:name="com.example.tapp.preference.SettingsFragment"
         android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.example.tapp.maps.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" >
+        <argument
+            android:name="sitio"
+            app:argType="com.example.tapp.model.SitioItem" />
+    </fragment>
 </navigation>
