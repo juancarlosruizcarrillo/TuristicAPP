@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "541736761167",
+    "project_id": "turisticapp-onedroid",
+    "storage_bucket": "turisticapp-onedroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541736761167:android:17ef8e8b3781787417f73a",
+        "android_client_info": {
+          "package_name": "com.example.tapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541736761167-04jjb9uvr4vi60cl3d3k8vua181rkiqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tapp",
+            "certificate_hash": "5207595ae9f485e3c60a022aa77b7b44ac0a0106"
+          }
+        },
+        {
+          "client_id": "541736761167-abst476dntjnnhnk07d4kqf286m7bimc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMJT1DClw5pHjhLitV-bqPPLbJHmUMIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541736761167-abst476dntjnnhnk07d4kqf286m7bimc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
